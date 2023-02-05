@@ -1,0 +1,31 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Timur Yarar, FE-14 online",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/yarar1211/advancedhtmlcsshw.git"
+  },
+  "author": "Timur Yarar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/yarar1211/advancedhtmlcsshw/issues"
+  },
+  "homepage": "https://gitlab.com/yarar1211/advancedhtmlcsshw#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "eslint": "^8.33.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  }
+}
+
+
